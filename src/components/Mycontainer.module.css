@@ -1,0 +1,13 @@
+.Mycontainer {      
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 2px solid #46E3CE;
+    padding: 8px;
+    background-attachment: scroll;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: -1px 0px 0px #800000;
+    min-width: 200px;
+    width: 50%;    
+  }
+  
